@@ -1,7 +1,7 @@
 close all; clear all; clc
 
-% Load the data (example data of ionosphere)
-original_data = readtable('appendicitis.dat'); % load the data
+% Load the data
+original_data = readtable('appendicitis.dat'); 
 
 
 % Convert table data to an array
