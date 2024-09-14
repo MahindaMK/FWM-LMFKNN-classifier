@@ -5,7 +5,7 @@ FWM-LMFKNN-classifier improves classification accuracy by incorporating feature 
 
 
 **Matlab functions:** <br/>
-The functions of the Md-FKNNreg algorithm (`Md_FKNNreg.m`) and the FKNNreg (`FKNNreg`) are included. Here, the FKNNreg is the fuzzy k-nearest regression model based on the Euclidean distance. 
+The functions of the FWM-LMFKNN algorithm (`FWM_LMFKNN.m`) is included. Here, the FKNNreg is the fuzzy k-nearest regression model based on the Euclidean distance. 
 
 
 Reference:
