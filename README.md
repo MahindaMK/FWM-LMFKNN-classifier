@@ -5,7 +5,7 @@ FWM-LMFKNN-classifier improves classification accuracy by incorporating feature 
 
 
 **Matlab functions:** <br/>
-The functions of the FWM-LMFKNN algorithm (`FWM_LMFKNN.m`) is included. Here, the `feat_sel_FES_RRComcorr` is the function for relevance and complementarity based feature weight generation. 
+The function of the FWM-LMFKNN algorithm is `FWM_LMFKNN.m`. Here, the `feat_sel_FES_RRComcorr` is the function for relevance and complementarity based feature weight generation. 
 
 
 Reference:
