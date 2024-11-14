@@ -38,13 +38,13 @@ for i=1:num_test
     end
 
     % sort the similarity values 
-     [~, indeces] = sort(distances);
+     [~, indices] = sort(distances);
 
 
     if (num_train_ii<k_values)
-    neighbor_index = indeces;    
+    neighbor_index = indices;    
     else
-    neighbor_index = indeces(1:k_values);
+    neighbor_index = indices(1:k_values);
     end
 	weight = ones(1,length(neighbor_index));
         
